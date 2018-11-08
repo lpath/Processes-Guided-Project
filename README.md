@@ -9,3 +9,4 @@
 ## Day 2-ish
 
 * [lssh.c](src/lssh.c): Lambda School Shell
+* [pipe.c](src/pipe.c): `pipe()` demo
